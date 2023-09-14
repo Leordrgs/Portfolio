@@ -29,9 +29,7 @@ No dia a dia das atléticas não existe um local onde seja possível centralizar
 2. Eficiencia
     - Manipulação e exibição de estoque de forma eficiente
 # Tecnologias utilizadas
-  - Frontend: Nuxt v2 (Vuejs) e Tailwind CSS
-  - Backend: C# e .Net Core
+  - Frontend: React 
+  - Backend: C# 
   - Banco de Dados: MySql
-  - Teste E2E: Cypress
-  - Cobertura de código: SonarQube
-  - Observabilidade: Datadog 
+  - Teste E2E: Cypress 
